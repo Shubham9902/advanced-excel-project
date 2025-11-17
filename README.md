@@ -17,9 +17,6 @@ This project focuses on data cleaning, validation, analysis, and dashboard devel
 - Created an interactive Excel dashboard
 - Performed exploratory analysis to extract insights
 
-## 🖼 Screenshots
-*(Upload your screenshots and link them here)*
-
 ## 📁 Files in this Repository
 - `cleaned_data.xlsx`
 - `dashboard.xlsx`
